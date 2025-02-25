@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": "2ea0",
+      "name": "Sameer Giri",
+      "email": "sameertanajigiri@gmail.com",
+      "password": "12345",
+      "department": "Development"
+    },
+    {
+      "id": "c9a6",
+      "name": "Sachin Sutar",
+      "email": "sachin@gmail.com",
+      "password": "Sachin123",
+      "department": "Support"
+    }
+  ],
+  "users": []
+}
